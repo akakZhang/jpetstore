@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MyJPetStore"
+  id="myeclipse.1398576595319"
+  context-root="/MyJPetStore"
+  j2ee-spec="5.0"
+  archive="MyJPetStore.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
